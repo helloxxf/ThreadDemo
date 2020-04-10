@@ -1,2 +1,2 @@
 # ThreadDemo
-一些基本JUC使用
+多线程以及一些基本JUC使用
